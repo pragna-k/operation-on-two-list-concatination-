@@ -511,6 +511,7 @@ default:printf("check choice");
 }
 }
 }
+ output:
   enter data(enter -1 to stop)90
 enter data(enter -1 to stop)80
 enter data(enter -1 to stop)50
